@@ -1,0 +1,34 @@
+{
+    "controller": {
+        "application": {
+            "files": {
+                "binaryHex": "*[Aa]pplication.hex",
+                "map": "*[Aa]pplication.map"
+            }
+        },
+        "bootloader": {
+            "files": {
+                "binaryHex": "*[Bb]ootloader.hex"
+            }
+        }
+    },
+    "documentation": {
+        "files": {
+            "docChangeReport": "*Change_Report*.pdf",
+            "docTestResult": "*result.xml"
+        }
+    },
+    "flasherPortable": {
+        "files": {
+            "portableFlasherConfig": "*.cfg",
+            "portableFlasherBinary": "*.dat"
+        }
+    },
+    "simulation": {
+        "files": {
+            "simulationExe": "[0-9]{1,5}*app.exe",
+            "simulationMap": "*app.map",
+            "simulationDll": "*.dll"
+        }
+    }
+}

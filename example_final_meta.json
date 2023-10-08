@@ -1,0 +1,26 @@
+{
+    "self": "meta.json",
+    "selfDirName": "meta_release",
+    "metaTargets": [
+        {
+            "metaInformationFile": "controller/meta.json",
+            "targetName": "controller"
+        },
+        {
+            "metaInformationFile": "documentation/meta.json",
+            "targetName": "documentation"
+        },
+        {
+            "metaInformationFile": "flasherPortable/meta.json",
+            "targetName": "flasherPortable"
+        },
+        {
+            "metaInformationFile": "simulation/meta.json",
+            "targetName": "simulation"
+        }
+    ],
+    "files": {
+        "buildInfo": "buildInfo.json"
+    },
+    "versionInfo": {}
+}

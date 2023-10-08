@@ -1,0 +1,33 @@
+{
+    "buildNode": "jenkins-123",
+    "buildId": 822895,
+    "buildTimestamp": "2023-08-04T17:57:40Z",
+    "buildYear": 2023,
+    "buildMonth": 8,
+    "buildDay": 4,
+    "buildHour": 17,
+    "buildMinute": 57,
+    "buildSecond": 40,
+    "versionIar": "9.87.6",
+    "versionPython": "1.23.4",
+    "versionJlink": "654312",
+    "versionControlSystem": {
+        "type": "git",
+        "repositories": {
+            "source": {
+                "name": "sourcecode",
+                "url": "ssh://git@git.com:/sourcecode.git",
+                "branch": "release-branch",
+                "commitId": "3265798465489654679865413256746e2644",
+                "tags": []
+            },
+            "toolsHelper": {
+                "name": "helper-tools",
+                "url": "ssh://git@git.com:/helper-tools.git",
+                "branch": "tools-branch",
+                "commitId": "dc2cf14d4fcd0529903270f38112a2c20a87d95e",
+                "tags": []
+            }
+        }
+    }
+}

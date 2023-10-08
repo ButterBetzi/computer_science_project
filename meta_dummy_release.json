@@ -1,0 +1,17 @@
+{
+    "self_dir_name": "controller",
+    "meta_targets": [
+        {
+            "target_name": "application",
+            "meta_information_file": "application/meta.json"
+        },
+        {
+            "target_name": "bootloader",
+            "meta_information_file": "bootloader/meta.json"
+        },
+        {
+            "target_name": "full",
+            "meta_information_file": "full/meta.json"
+        }
+    ]
+}

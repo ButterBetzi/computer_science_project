@@ -1,0 +1,17 @@
+{
+    "self": "meta.json",
+    "selfDirName": "application",
+    "metaTargets": [],
+    "files": {
+        "binaryHex": "00012.00345.06789.00012_Application.hex",
+        "map": "00012.00345.06789.00012_Application.map"
+    },
+    "versionInfo": {
+        "versionCompact": "12.345.6789.12",
+        "versionFull": "00012.00345.06789.00012",
+        "versionFamily": 12,
+        "versionMajor": 345,
+        "versionMinor": 6789,
+        "versionPatch": 12
+    }
+}
